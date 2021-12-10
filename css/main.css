@@ -20,9 +20,13 @@
 
 .header {
   padding: 80px;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
+  background: #00ccff;
+  color: rgb(255, 255, 255);
+}
+
+.biggertext {
+  font-size: 24px;
+  font-weight: lighter;
 }
 
 .largetext {
@@ -30,9 +34,11 @@
  font-weight: bold;
 }
 
-
+.comicsans {
+font-family: "comic_sans";
+}
  .mediumtext {
-  font-size: x-large;
+  font-size: 18px;
  }
 
  .smalltext {
@@ -61,6 +67,7 @@ color: #0066CC;
     -webkit-text-stroke-color: black;
  text-align: center;
  font-size: 65px;
+ font-family: "archive";
 }
 .mainpadding {
   padding-top: 52px;
