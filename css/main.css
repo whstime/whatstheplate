@@ -38,11 +38,11 @@
 font-family: "comic_sans";
 }
  .mediumtext {
-  font-size: 18px;
+  font-size: 25px;
  }
 
  .smalltext {
-   font-size: small;
+   font-size: 18px;
    font-weight: lighter;
  }
 
