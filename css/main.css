@@ -77,7 +77,8 @@ color: #0066CC;
   padding-top: 52px;
   padding-bottom: 52px;
   max-width: 100%;
-  position: absolute;
+  position: static;
   right: 0;
   left: 0;
+  bottom: 0;
 }
