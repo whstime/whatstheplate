@@ -28,7 +28,11 @@
   font-size: 24px;
   font-weight: lighter;
 }
-
+.width
+ {
+  text-align: center;
+  background: 3px solid green;
+ }
 .largetext {
  font-size: xx-large;
  font-weight: bold;
